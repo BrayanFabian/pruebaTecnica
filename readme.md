@@ -22,3 +22,7 @@ Este tiene migraciones para ejecutar, crean las tablas correspondientes en la ba
 
 -php artisan migrate
 -php artisan db:seed //valores de prueba
+
+aplicación en servidor: <h1>http://157.230.170.80</h1>
+credenciales: admin@mail.com 
+              admin123
